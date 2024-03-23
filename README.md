@@ -39,3 +39,4 @@ For any Issues and updates, please join the Discord : LAMAARK PLAYS https://disc
 
 
 
+![Amari Jewelry store logo](https://github.com/LamaarK/amari-jewelrystore/assets/65554339/6e023a3a-56b7-4d60-bb8e-f048a21a6d70)
