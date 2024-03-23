@@ -1,10 +1,9 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local currentStashKey = nil
-local destinationPed = nil
-local pedSpawned = false
-local isRunActive = false
-local runTimer = Config.RunTimerDuration 
-local destinationBlip = nil  
+
+
+
+
 
 function Duty()
     TriggerServerEvent("QBCore:ToggleDuty")
