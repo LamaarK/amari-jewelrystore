@@ -177,12 +177,12 @@ Config.BossMenuZone = {
 }
 
 Config.MoneyWashZone = {
-    coords = vector3(169.69, -1313.84, 25.81),  
+    coords = vector3(-1375.17, -306.53, 43.7),  
     length = 1.4,
     width = 2.5,
     heading = 65,
-    minZ = 22.21,  
-    maxZ = 26.21,   
+    minZ = 43.14,
+    maxZ = 45.14,  
     label = "Wash Money",
     icon = "fas fa-money-bill-wave",
     distance = 2.0
