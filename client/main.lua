@@ -58,7 +58,7 @@ for stashKey, stashConfig in pairs(Config.Stashes) do
                 event = "amari-jewel:client:openStash",
                 icon = "fas fa-box",
                 label = "Open Stash",
-                job = Config.Job,
+                --job = Config.Job, -- comment this in if you want to have job only view stashes (RECOMMENDED to be commented out)
                 action = function() 
                     currentStashKey = stashKey
                     TriggerEvent("amari-jewel:client:openStash")
